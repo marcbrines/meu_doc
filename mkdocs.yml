@@ -1,0 +1,11 @@
+site_name: My Docs
+theme:
+  name: material
+
+nav:
+  - Inici: index.md
+  - Exercici_1: Exercici1_Marc_Brines/Exercici1_Marc_Brines.md
+  - Exercici_2: Exercici2_Marc_Brines/Exercici2_Marc_Brines.md
+  - Exercici_3: Exercici3_Marc_Brines/Exercici3_Marc_Brines.md
+  - Exercici_4: Exercici4_Marc_Brines/Exercici4_Marc_Brines.md
+  - Exercici_5: Exercici5_Marc_Brines/Exercici5_Marc_Brines.md
